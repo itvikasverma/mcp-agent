@@ -8,9 +8,7 @@
 # # Load environment variables
 # load_dotenv()
 
-# # ---------------- Groq API key fallback ---------------- #
-# GROQ_API_KEY = "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"
-
+# # ---------------- Groq API key fallb
 # # ---------------- DynamoDB setup ---------------- #
 # dynamodb = boto3.resource("dynamodb", region_name="us-west-2") 
 #  # Specify your region
@@ -68,11 +66,7 @@
 #         max_tokens=100,
 #     )
 
-# print(f"LLM initialized with model: {llm_config.get('model', 'llama-3.3-70b-versatile') if llm_config else 'llama-3.3-70b-versatile'}")
-
-
-
-
+# print(f"LLM initialized with model: {llm_config.get('model', 'llam
 
 import os
 from langchain_groq import ChatGroq
