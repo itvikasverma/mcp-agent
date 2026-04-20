@@ -1,0 +1,763 @@
+2026-01-25 11:30:33,560 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 11:30:43,038 - INFO - Use pytorch device_name: cpu
+2026-01-25 11:30:43,038 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 11:32:11,314 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 11:32:20,584 - INFO - Use pytorch device_name: cpu
+2026-01-25 11:32:20,584 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 11:33:15,974 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 11:33:24,728 - INFO - Use pytorch device_name: cpu
+2026-01-25 11:33:24,728 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 11:33:30,883 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 11:33:30,886 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 11:33:31,456 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 11:33:31,461 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 11:33:31,466 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 11:33:31,466 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 11:33:32,072 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 11:33:32,078 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 11:33:32,086 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 11:33:32,087 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 11:33:32,733 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 11:33:32,740 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 11:33:32,747 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 11:33:32,748 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 11:33:33,353 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 11:33:33,359 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 11:33:33,366 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 11:33:33,366 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 11:33:34,062 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 11:33:34,067 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 11:33:34,072 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 11:33:34,072 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 11:33:34,732 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 11:33:34,741 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 11:33:34,748 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 11:33:34,750 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 11:33:35,368 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 11:33:35,375 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 11:33:35,381 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 11:33:35,381 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 11:33:36,020 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 11:33:36,026 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 11:33:36,030 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 11:33:36,032 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 11:33:36,740 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 11:33:36,747 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 11:33:36,756 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 11:33:36,757 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 11:33:37,461 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 11:33:37,467 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 11:33:37,473 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 11:33:37,473 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 11:33:38,146 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 11:33:38,149 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 11:33:38,158 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 11:33:38,158 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 11:33:38,608 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 11:33:38,614 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 11:33:39,244 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Screenshot 2025-10-01 161610.pdf
+2026-01-25 11:33:39,245 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 11:33:39,296 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 11:33:39,300 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 11:35:03,768 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 11:35:12,787 - INFO - Use pytorch device_name: cpu
+2026-01-25 11:35:12,787 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 11:36:13,607 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 11:36:22,917 - INFO - Use pytorch device_name: cpu
+2026-01-25 11:36:22,917 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 11:37:10,842 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 11:37:20,224 - INFO - Use pytorch device_name: cpu
+2026-01-25 11:37:20,224 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 11:38:32,265 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 11:38:41,548 - INFO - Use pytorch device_name: cpu
+2026-01-25 11:38:41,548 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 11:53:17,079 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 11:53:22,333 - INFO - Use pytorch device_name: cpu
+2026-01-25 11:53:22,333 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 11:55:24,291 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 11:55:28,945 - INFO - Use pytorch device_name: cpu
+2026-01-25 11:55:28,945 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 11:55:45,311 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 11:55:50,625 - INFO - Use pytorch device_name: cpu
+2026-01-25 11:55:50,625 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 11:56:49,781 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 11:56:55,450 - INFO - Use pytorch device_name: cpu
+2026-01-25 11:56:55,450 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 11:57:01,340 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 11:57:04,382 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 11:58:45,113 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 11:58:49,698 - INFO - Use pytorch device_name: cpu
+2026-01-25 11:58:49,698 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 11:59:43,185 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 11:59:48,279 - INFO - Use pytorch device_name: cpu
+2026-01-25 11:59:48,279 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:01:06,821 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:01:11,364 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:01:11,364 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:02:30,216 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:02:35,121 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:02:35,121 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:02:50,365 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:02:54,741 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:02:54,741 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:08:29,942 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:08:34,558 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:08:34,558 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:09:22,735 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 12:10:30,797 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 12:11:18,340 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 12:15:03,380 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:15:08,065 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:15:08,065 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:18:03,845 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:18:08,557 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:18:08,557 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:18:24,739 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:18:29,722 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:18:29,723 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:20:50,045 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:20:57,653 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:20:57,653 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:22:57,694 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:23:02,502 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:23:02,502 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:23:26,571 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:23:31,172 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:23:31,172 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:27:09,160 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:27:13,722 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:27:13,722 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:28:43,518 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 12:28:43,523 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 12:32:59,780 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 12:40:39,924 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:40:45,111 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:40:45,111 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:42:58,153 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:43:02,469 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:43:02,469 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:48:33,821 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:48:38,748 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:48:38,748 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:49:38,902 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:49:43,593 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:49:43,593 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:51:01,246 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:51:08,818 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:51:08,818 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:53:37,126 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:53:42,288 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:53:42,288 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:53:59,644 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:54:04,334 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:54:04,334 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 12:54:55,016 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 12:55:00,301 - INFO - Use pytorch device_name: cpu
+2026-01-25 12:55:00,302 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 13:16:41,156 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 13:16:53,903 - INFO - Use pytorch device_name: cpu
+2026-01-25 13:16:53,903 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 13:17:10,899 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 13:17:19,385 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 13:18:14,758 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 13:18:24,972 - INFO - Use pytorch device_name: cpu
+2026-01-25 13:18:24,972 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 13:22:19,544 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 13:22:31,934 - INFO - Use pytorch device_name: cpu
+2026-01-25 13:22:31,934 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 13:24:06,503 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 13:25:49,214 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 13:27:05,684 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 13:27:20,759 - INFO - Use pytorch device_name: cpu
+2026-01-25 13:27:20,759 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 13:37:35,030 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 13:37:50,428 - INFO - Use pytorch device_name: cpu
+2026-01-25 13:37:50,428 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 13:39:14,909 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 13:39:25,892 - INFO - Use pytorch device_name: cpu
+2026-01-25 13:39:25,892 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 13:41:20,077 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 13:41:32,659 - INFO - Use pytorch device_name: cpu
+2026-01-25 13:41:32,659 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 13:41:52,359 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 13:43:11,178 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 13:55:33,559 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 13:57:56,621 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 13:58:42,369 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 14:00:53,016 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:01:06,182 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:01:06,182 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:06:48,762 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:07:01,708 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:07:01,708 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:08:45,280 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 14:10:39,231 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:10:53,772 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:10:53,772 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:11:30,153 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:11:45,759 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:11:45,759 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:12:34,524 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:12:49,468 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:12:49,469 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:13:31,015 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:13:45,485 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:13:45,485 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:14:20,958 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:14:33,457 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:14:33,457 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:15:35,854 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:15:48,743 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:15:48,743 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:18:16,031 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:18:24,640 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:18:24,640 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:19:30,114 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:19:40,613 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:19:40,613 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:20:45,311 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:20:55,422 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:20:55,422 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:21:38,891 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:21:49,992 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:21:49,992 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:23:55,548 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:24:04,087 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:24:04,087 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:28:03,607 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:28:12,309 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:28:12,309 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:29:57,817 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 14:31:04,091 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:31:13,705 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:31:13,705 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:31:39,624 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:31:50,862 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:31:50,862 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:32:38,750 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:32:45,266 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:32:45,266 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:33:07,435 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:33:17,659 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:33:17,659 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:37:56,230 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 14:39:35,655 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 14:41:20,761 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:41:31,063 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:41:31,063 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:42:00,305 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 14:42:05,972 - INFO - Use pytorch device_name: cpu
+2026-01-25 14:42:05,972 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 14:42:12,358 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 15:05:05,117 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:05:11,042 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:05:11,043 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:09:04,204 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 15:11:07,724 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:11:13,383 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:11:13,383 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:11:33,420 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:11:39,380 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:11:39,380 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:13:35,601 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:13:44,775 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:13:44,775 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:14:03,538 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:14:08,809 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:14:08,809 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:14:34,033 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 15:17:20,786 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:18:21,508 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:18:30,494 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:20:33,178 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 15:20:58,312 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:21:55,413 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:22:04,808 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:22:04,808 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:22:50,808 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:22:55,031 - INFO - HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-01-25 15:22:55,360 - INFO - HTTP Request: DELETE http://localhost:6333/collections/repay_rag "HTTP/1.1 200 OK"
+2026-01-25 15:22:57,409 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag "HTTP/1.1 200 OK"
+2026-01-25 15:23:25,884 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:24:29,467 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:24:40,405 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:24:40,405 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:25:23,193 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:25:29,109 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:25:29,109 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:26:03,362 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:26:09,832 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:26:09,832 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:26:36,076 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:26:45,850 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:26:45,850 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:27:10,000 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:27:21,230 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:27:21,232 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:27:27,625 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 15:27:27,642 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 15:30:51,392 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:31:00,872 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:31:00,872 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:31:20,444 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 15:32:05,529 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 15:32:13,405 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 15:32:26,996 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 15:36:09,984 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:36:09,993 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:36:09,993 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:36:32,003 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:36:32,008 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:36:32,008 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:37:29,802 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:37:29,803 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:37:30,353 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:37:30,360 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:37:30,367 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:37:30,368 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:37:31,036 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:37:31,041 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:37:31,049 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:37:31,050 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:37:31,732 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:37:31,739 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:37:31,747 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:37:31,750 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:37:32,664 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:37:32,672 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:37:32,682 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:37:32,683 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:37:33,467 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:37:33,472 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:37:33,481 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:37:33,482 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:37:34,266 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:37:34,271 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:37:34,280 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:37:34,281 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:37:35,036 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:37:35,042 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:37:35,050 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:37:35,051 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:37:35,874 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:37:35,880 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:37:35,889 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:37:35,891 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:37:36,658 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:37:36,663 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:37:36,670 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:37:36,671 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:37:37,509 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:37:37,515 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:37:37,523 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:37:37,524 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:37:38,275 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:37:38,281 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:37:38,289 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:37:38,290 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:37:38,904 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:37:38,910 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:37:39,468 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Screenshot 2025-10-01 161610.pdf
+2026-01-25 15:37:39,469 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:37:39,517 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:37:39,523 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:38:21,217 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:38:37,874 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:38:47,639 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:39:29,257 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:39:29,258 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:39:29,808 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:39:29,813 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:39:29,818 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:39:29,820 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:39:30,495 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:39:30,501 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:39:30,509 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:39:30,511 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:39:31,270 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:39:31,277 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:39:31,282 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:39:31,285 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:39:32,043 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:39:32,050 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:39:32,059 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:39:32,061 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:39:32,866 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:39:32,870 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:39:32,879 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:39:32,880 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:39:33,538 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:39:33,543 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:39:33,549 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:39:33,550 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:39:34,149 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:39:34,157 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:39:34,164 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:39:34,164 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:39:34,790 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:39:34,797 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:39:34,802 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:39:34,802 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:39:35,530 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:39:35,534 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:39:35,545 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:39:35,545 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:39:36,167 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:39:36,173 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:39:36,181 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:39:36,181 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:39:36,758 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:39:36,763 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:39:36,768 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:39:36,772 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:39:37,241 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:39:37,243 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:39:37,943 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Rag Poc Document.pdf
+2026-01-25 15:39:37,943 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:39:38,266 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:39:38,270 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:39:38,639 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Screenshot 2025-10-01 161610.pdf
+2026-01-25 15:39:38,639 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:39:38,677 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:39:38,680 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:40:31,368 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:40:31,374 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:40:31,374 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:40:56,728 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:41:07,301 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 15:41:17,386 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 15:42:05,807 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:42:31,744 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:42:37,172 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:43:10,085 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:47:47,766 - INFO - HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-01-25 15:47:47,823 - INFO - HTTP Request: DELETE http://localhost:6333/collections/repay_rag "HTTP/1.1 200 OK"
+2026-01-25 15:47:48,304 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag "HTTP/1.1 200 OK"
+2026-01-25 15:50:55,337 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:50:55,341 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:50:55,342 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:51:56,120 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:52:11,994 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 15:53:16,012 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 15:55:24,021 - INFO - [ADD_DOC] Incoming \u2192 source=s3, filename=FSI-2023-DOWNLOAD.xlsx
+2026-01-25 15:55:24,021 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:55:24,304 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:55:24,308 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 s3.json
+2026-01-25 15:55:24,312 - INFO - [ADD_DOC] Incoming \u2192 source=s3, filename=FSI-2023-DOWNLOAD.xlsx
+2026-01-25 15:55:24,315 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:55:24,663 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:55:24,666 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 s3.json
+2026-01-25 15:55:24,671 - INFO - [ADD_DOC] Incoming \u2192 source=s3, filename=FSI-2023-DOWNLOAD.xlsx
+2026-01-25 15:55:24,671 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:55:24,905 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:55:24,911 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 s3.json
+2026-01-25 15:55:25,789 - INFO - [ADD_DOC] Incoming \u2192 source=s3, filename=hou2025mcp77.docx
+2026-01-25 15:55:25,789 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:55:26,348 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:55:26,353 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 s3.json
+2026-01-25 15:55:26,357 - INFO - [ADD_DOC] Incoming \u2192 source=s3, filename=hou2025mcp77.docx
+2026-01-25 15:55:26,358 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:55:26,833 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:55:26,836 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 s3.json
+2026-01-25 15:55:26,842 - INFO - [ADD_DOC] Incoming \u2192 source=s3, filename=hou2025mcp77.docx
+2026-01-25 15:55:26,842 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:55:27,344 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:55:27,348 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 s3.json
+2026-01-25 15:55:27,352 - INFO - [ADD_DOC] Incoming \u2192 source=s3, filename=hou2025mcp77.docx
+2026-01-25 15:55:27,352 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:55:27,870 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:55:27,873 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 s3.json
+2026-01-25 15:55:27,879 - INFO - [ADD_DOC] Incoming \u2192 source=s3, filename=hou2025mcp77.docx
+2026-01-25 15:55:27,879 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:55:28,439 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:55:28,451 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 s3.json
+2026-01-25 15:55:29,341 - INFO - [ADD_DOC] Incoming \u2192 source=s3, filename=lee.pdf
+2026-01-25 15:55:29,342 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:55:29,506 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:55:29,510 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 s3.json
+2026-01-25 15:55:29,790 - INFO - [ADD_DOC] Incoming \u2192 source=s3, filename=Rag Poc Document (1).docx
+2026-01-25 15:55:29,791 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:55:30,497 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:55:30,501 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 s3.json
+2026-01-25 15:55:30,505 - INFO - [ADD_DOC] Incoming \u2192 source=s3, filename=Rag Poc Document (1).docx
+2026-01-25 15:55:30,506 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:55:30,713 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:55:30,717 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 s3.json
+2026-01-25 15:55:31,836 - INFO - [ADD_DOC] Incoming \u2192 source=s3, filename=sample.pdf
+2026-01-25 15:55:31,836 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:55:32,047 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:55:32,053 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 s3.json
+2026-01-25 15:56:00,956 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:56:00,962 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:56:00,962 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 15:56:14,338 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:56:14,338 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:56:14,826 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:56:14,833 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:56:14,844 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:56:14,846 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:56:15,509 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:56:15,515 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:56:15,522 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:56:15,524 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:56:16,194 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:56:16,201 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:56:16,209 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:56:16,209 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:56:16,788 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:56:16,793 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:56:16,797 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:56:16,797 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:56:17,377 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:56:17,383 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:56:17,390 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:56:17,390 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:56:18,001 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:56:18,012 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:56:18,017 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:56:18,019 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:56:18,761 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:56:18,765 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:56:18,775 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:56:18,776 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:56:19,418 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:56:19,421 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:56:19,428 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:56:19,431 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:56:20,070 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:56:20,075 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:56:20,083 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:56:20,084 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:56:20,819 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:56:20,825 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:56:20,831 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:56:20,831 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:56:21,439 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:56:21,446 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:56:21,451 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-01-25 15:56:21,453 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:56:22,010 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:56:22,013 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:56:22,683 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Rag Poc Document.pdf
+2026-01-25 15:56:22,687 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:56:23,144 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:56:23,150 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:56:23,618 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Screenshot 2025-10-01 161610.pdf
+2026-01-25 15:56:23,619 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-01-25 15:56:23,664 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-01-25 15:56:23,668 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-01-25 15:58:03,678 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:58:43,841 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 15:59:30,256 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 15:59:30,263 - INFO - Use pytorch device_name: cpu
+2026-01-25 15:59:30,263 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 16:00:55,024 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 16:00:55,029 - INFO - Use pytorch device_name: cpu
+2026-01-25 16:00:55,029 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 16:02:56,911 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 16:03:15,401 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 16:03:53,929 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 16:03:54,068 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 16:03:54,124 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 16:04:20,788 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 16:06:35,889 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 16:06:35,896 - INFO - Use pytorch device_name: cpu
+2026-01-25 16:06:35,897 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 16:07:08,464 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 16:07:08,471 - INFO - Use pytorch device_name: cpu
+2026-01-25 16:07:08,471 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 16:08:14,139 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 16:08:14,146 - INFO - Use pytorch device_name: cpu
+2026-01-25 16:08:14,146 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 16:09:29,399 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 16:09:29,404 - INFO - Use pytorch device_name: cpu
+2026-01-25 16:09:29,404 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 16:11:35,161 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 16:13:03,233 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 16:13:03,240 - INFO - Use pytorch device_name: cpu
+2026-01-25 16:13:03,240 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 16:14:10,699 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-01-25 16:14:10,703 - INFO - Use pytorch device_name: cpu
+2026-01-25 16:14:10,703 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-25 16:14:22,413 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 16:16:02,033 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-01-25 16:16:49,541 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 16:17:49,765 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 16:19:00,592 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 16:19:18,634 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 16:20:15,085 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 16:20:15,102 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 16:20:53,311 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 16:22:35,739 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 16:22:44,939 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-01-25 16:23:25,915 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:02:16,344 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-03-15 11:02:16,356 - INFO - Use pytorch device_name: cpu
+2026-03-15 11:02:16,356 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-15 11:02:25,630 - INFO - HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-03-15 11:02:26,141 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag "HTTP/1.1 200 OK"
+2026-03-15 11:03:15,083 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:03:15,084 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:03:16,214 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:03:16,221 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:03:16,229 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:03:16,230 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:03:17,087 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:03:17,095 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:03:17,112 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:03:17,115 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:03:18,122 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:03:18,130 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:03:18,139 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:03:18,140 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:03:18,913 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:03:18,919 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:03:18,928 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:03:18,930 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:03:19,719 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:03:19,723 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:03:19,732 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:03:19,732 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:03:20,446 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:03:20,452 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:03:20,461 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:03:20,462 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:03:21,311 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:03:21,317 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:03:21,325 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:03:21,326 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:03:22,063 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:03:22,074 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:03:22,081 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:03:22,082 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:03:22,803 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:03:22,808 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:03:22,814 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:03:22,816 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:03:23,520 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:03:23,525 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:03:23,533 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:03:23,533 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:03:24,173 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:03:24,177 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:03:24,186 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:03:24,186 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:03:24,771 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:03:24,775 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:03:25,365 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Rag Poc Document.pdf
+2026-03-15 11:03:25,365 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:03:25,669 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:03:25,673 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:03:26,039 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Screenshot 2025-10-01 161610.pdf
+2026-03-15 11:03:26,039 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:03:26,077 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:03:26,080 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:08:53,938 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:09:49,068 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-03-15 11:12:32,641 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-03-15 11:12:32,647 - INFO - Use pytorch device_name: cpu
+2026-03-15 11:12:32,647 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-15 11:12:56,681 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-03-15 11:12:56,687 - INFO - Use pytorch device_name: cpu
+2026-03-15 11:12:56,687 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-15 11:15:40,191 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-03-15 11:17:28,204 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-03-15 11:17:28,211 - INFO - Use pytorch device_name: cpu
+2026-03-15 11:17:28,211 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-15 11:18:24,343 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-03-15 11:18:24,351 - INFO - Use pytorch device_name: cpu
+2026-03-15 11:18:24,351 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-15 11:18:47,983 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-03-15 11:18:47,989 - INFO - Use pytorch device_name: cpu
+2026-03-15 11:18:47,989 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-15 11:19:44,419 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-03-15 11:19:44,423 - INFO - Use pytorch device_name: cpu
+2026-03-15 11:19:44,423 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-15 11:20:10,330 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-03-15 11:20:10,335 - INFO - Use pytorch device_name: cpu
+2026-03-15 11:20:10,335 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-15 11:20:35,645 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-03-15 11:20:35,648 - INFO - Use pytorch device_name: cpu
+2026-03-15 11:20:35,648 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-15 11:22:19,591 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:23:06,757 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:24:51,809 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:25:07,280 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:25:21,069 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:25:34,686 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:25:49,338 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:26:04,188 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:26:39,909 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:27:02,973 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:28:09,945 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-03-15 11:28:28,461 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-03-15 11:28:28,466 - INFO - Use pytorch device_name: cpu
+2026-03-15 11:28:28,467 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-15 11:28:57,722 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-03-15 11:28:57,739 - INFO - Use pytorch device_name: cpu
+2026-03-15 11:28:57,739 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-15 11:30:19,638 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:30:19,856 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-03-15 11:30:58,687 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:30:58,749 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/query "HTTP/1.1 200 OK"
+2026-03-15 11:38:52,525 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-03-15 11:38:52,530 - INFO - Use pytorch device_name: cpu
+2026-03-15 11:38:52,530 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-03-15 11:39:09,251 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:39:09,252 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:39:09,757 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:39:09,762 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:39:09,766 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:39:09,767 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:39:10,267 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:39:10,277 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:39:10,284 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:39:10,284 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:39:10,880 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:39:10,885 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:39:10,892 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:39:10,892 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:39:11,486 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:39:11,489 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:39:11,496 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:39:11,498 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:39:12,324 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:39:12,330 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:39:12,339 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:39:12,341 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:39:12,956 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:39:12,961 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:39:12,968 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:39:12,968 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:39:13,580 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:39:13,584 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:39:13,593 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:39:13,593 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:39:14,186 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:39:14,189 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:39:14,197 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:39:14,198 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:39:14,783 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:39:14,783 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:39:14,794 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:39:14,794 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:39:15,449 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:39:15,451 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:39:15,460 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:39:15,461 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:39:15,946 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:39:15,952 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:39:15,959 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Digital Notes_DA.pdf
+2026-03-15 11:39:15,960 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:39:16,534 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:39:16,539 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:39:17,165 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Rag Poc Document.pdf
+2026-03-15 11:39:17,166 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:39:17,496 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:39:17,501 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:39:17,848 - INFO - [ADD_DOC] Incoming \u2192 source=confluence, filename=Screenshot 2025-10-01 161610.pdf
+2026-03-15 11:39:17,850 - INFO - [ADD_DOC] Indexing new or updated file (this file must be kept in VDB).
+2026-03-15 11:39:17,908 - INFO - HTTP Request: PUT http://localhost:6333/collections/repay_rag/points?wait=true "HTTP/1.1 200 OK"
+2026-03-15 11:39:17,911 - INFO - [ADD_DOC] Snapshot updated (kept file removed from kill-list) \u2192 confluence.json
+2026-03-15 11:42:10,460 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
+2026-03-15 11:42:25,125 - INFO - HTTP Request: POST http://localhost:6333/collections/repay_rag/points/scroll "HTTP/1.1 200 OK"
