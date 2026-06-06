@@ -1,4 +1,4 @@
-# Repay MCP — Qdrant + LangGraph RAG Stack
+# MCP — Qdrant + LangGraph RAG Stack
 
 A small RAG stack that ingests documents into Qdrant, exposes FastAPI endpoints, and provides a modern web chat UI with MCP tools. Sessions are in-memory (fast, resets on restart).
 
